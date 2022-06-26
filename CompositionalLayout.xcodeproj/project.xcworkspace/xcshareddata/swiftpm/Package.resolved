@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ibanimatable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/IBAnimatable/IBAnimatable.git",
+      "state" : {
+        "revision" : "e4f5d93c626839abb11cf1441397e93feb584e93",
+        "version" : "6.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
